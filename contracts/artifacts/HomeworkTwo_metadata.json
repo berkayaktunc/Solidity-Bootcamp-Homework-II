@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/HomeworkTwo.sol": "HomeworkTwo"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/HomeworkTwo.sol": {
+			"keccak256": "0xbe7e91a38ca4917dab2cdc36651ed2985c35edf484ac0e79212154c450b41479",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6d0a140a15a27bc37a8bfa3feb44c46bd969af6baabf5a6767ad12cb9887d83b",
+				"dweb:/ipfs/QmQPQHLGVVdu96mq2wuUoNRrxjJtY91V3tWiP7nnrPTWC3"
+			]
+		}
+	},
+	"version": 1
+}
